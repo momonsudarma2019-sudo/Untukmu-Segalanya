@@ -5,7 +5,7 @@ import './style.css';
 const copy = {
   id: {
     nav: ['Cara Kerja', 'Contoh Lagu', 'Mulai Membuat'], eyebrow: 'MELESTARIKAN KISAH',
-    title: 'Menata Kisah,\ Menjadi Nada.', subtitle: 'Olah Kata dan rasa menjadi Nada istimewa yang bisa dinikmati setiap saat.',
+    title: 'Menata Kisah,\nMenjadi Nada.', subtitle: 'Olah Kata dan rasa menjadi Nada istimewa yang bisa dinikmati setiap saat.',
     cta: 'Buat lagu saya', how: 'Dari cerita menjadi melodi', howSub: 'Cukup ceritakan momenmu. Kami bantu menyusunnya menjadi lagu yang bermakna.',
     steps: [['Ceritakan kisahmu','Bagikan kenangan, nama, dan pesan yang ingin disampaikan.'],['Pilih nuansa musik','Tentukan genre, suasana, dan bahasa lagu.'],['Jadikan sebuah lagu','Lirik disusun dengan AI, lalu musik diproduksi melalui layanan musik AI.']],
     formTitle: 'Mari mulai dari ceritamu', formSub: 'Tidak perlu pandai menulis. Ceritakan saja dengan bahasamu sendiri.',
